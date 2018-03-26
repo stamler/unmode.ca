@@ -1,0 +1,52 @@
+/* @override http://unmode.ca/style.css */
+
+
+body {
+	background-color: #fff;
+	color: #000;
+	/* text-shadow: 1px 1px 1px #222; */
+	font-family:Helvetica Neue, Arial, sans-serif;
+	padding: 0px;
+	margin: 16px;
+	text-align: center;
+}
+
+#container {
+	border: 9px solid #000;
+	width: 320px;
+	padding:16px;
+	margin: 0px auto 0px;
+	font-size: 12pt;
+	text-align: left;	
+}
+
+#container h3 {
+	font-size: 60pt;
+	line-height: 60px;
+	height: 74px;
+	font-weight:600;
+	text-align:center;
+	margin:0px;
+	padding:0px;
+}
+
+#card {text-align:right;}
+
+#twitter_div li {
+	padding: 10px;
+	margin: 6px 0px 6px;
+	background-color: #ddd;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px;
+    #border-top: 2px solid white;
+}
+
+a {color: #555; padding:0px;margin:0px;text-decoration: underline;}
+a:hover {background-color: #eee; color: #00bfff;}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+  list-style-type: none;
+}
+
